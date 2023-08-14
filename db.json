@@ -4,25 +4,25 @@
           "id": "Sdata1",
           "title": "50% Off For Your First Shopping",
           "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-1.png"
+          "img": "imges/SlideCard/slide-1.webp"
         },
         {
           "id": "Sdata2",
           "title": "50% Off For Your First Shopping",
           "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-2.png"
+          "img": "imges/SlideCard/slide-2.webp"
         },
         {
           "id": "Sdata3",
           "title": "50% Off For Your First Shopping",
           "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-3.png"
+          "img": "imges/SlideCard/slide-3.webp"
         },
         {
           "id": "Sdata4",
           "title": "50% Off For Your First Shopping",
           "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-4.png"
+          "img": "imges/SlideCard/slide-4.webp"
         }
       ],
       "asideData":[
@@ -43,37 +43,37 @@
         },
         {
           "id":"cat4",
-          "img":"imges/aside/cat1.png",
+          "img":"imges/aside/cat1.webp",
           "title":"#Arrivals"
         },
         {
           "id":"cat5",
-          "img":"imges/aside/cat2.png",
+          "img":"imges/aside/cat2.webp",
           "title":"#Mobile"
         },
         {
           "id":"cat7",
-          "img":"imges/aside/cat4.png",
+          "img":"imges/aside/cat4.webp",
           "title":"#Us"
         },
         {
           "id":"cat8",
-          "img":"imges/aside/cat5.png",
+          "img":"imges/aside/cat5.webp",
           "title":"Pets"
         },
         {
           "id":"cat9",
-          "img":"imges/aside/cat6.png",
+          "img":"imges/aside/cat6.webp",
           "title":"Toys"
         },
         {
           "id":"cat10",
-          "img":"imges/aside/cat7.png",
+          "img":"imges/aside/cat7.webp",
           "title":"Groceries"
         },
         {
           "id":"cat11",
-          "img":"imges/aside/cat8.png",
+          "img":"imges/aside/cat8.webp",
           "title":"Books"
         }
       ],
@@ -231,37 +231,37 @@
       "mobileFilter":[
         {
           "id":"mob-filter1",
-          "img":"imges/mobileFilter/mob-1.jpg",
+          "img":"imges/mobileFilter/mob-1.webp",
           "brand":"Shawmi",
           "title":"Shawmi"
         },
         {
           "id":"mob-filter2",
-          "img":"imges/mobileFilter/mob-2.jpg",
+          "img":"imges/mobileFilter/mob-2.webp",
           "brand":"Infenix",
           "title":"Infenix"
         },
         {
           "id":"mob-filter3",
-          "img":"imges/mobileFilter/mob-3.jpg",
+          "img":"imges/mobileFilter/mob-3.webp",
           "brand":"Realme",
           "title":"Realme"
         },
         {
           "id":"mob-filter4",
-          "img":"imges/mobileFilter/mob-4.jpg",
+          "img":"imges/mobileFilter/mob-4.webp",
           "brand":"Hwawi",
           "title":"Hwawi"
         },
         {
           "id":"mob-filter5",
-          "img":"imges/mobileFilter/mob-5.jpg",
+          "img":"imges/mobileFilter/mob-5.webp",
           "brand":"Samsung",
           "title":"Samsung"
         },
         {
           "id":"mob-filter6",
-          "img":"imges/mobileFilter/mob-7.jpg",
+          "img":"imges/mobileFilter/mob-7.webp",
           "brand":"Iphone",
           "title":"Iphone"
         }
@@ -346,35 +346,35 @@
         },
         {
           "id":"mob-list-two-1",
-          "img":"imges/mobileList/mob-1.png",
+          "img":"imges/mobileList/mob-1.webp",
           "name":"Hot 11",
           "brand":"Infenix all",
           "price":2300
         },
         {
           "id":"mob-list-two-2",
-          "img":"imges/mobileList/mob-2.png",
+          "img":"imges/mobileList/mob-2.webp",
           "name":"Reno 6",
           "brand":"Reno all",
           "price":4200
         },
         {
           "id":"mob-list-two-3",
-          "img":"imges/mobileList/mob-3.jpg",
+          "img":"imges/mobileList/mob-3.webp",
           "name":"Rm 9i",
           "brand":"Realme all",
           "price":3700
         },
         {
           "id":"mob-list-two-4",
-          "img":"imges/mobileList/mob-4.jpg",
+          "img":"imges/mobileList/mob-4.webp",
           "name":"A2",
           "brand":"Hwawi all",
           "price":2900
         },
         {
           "id":"mob-list-two-5",
-          "img":"imges/mobileList/mob-5.jpg",
+          "img":"imges/mobileList/mob-5.webp",
           "name":"Rm 7",
           "brand":"Realme all",
           "price":2900
